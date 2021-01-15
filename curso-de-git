@@ -1,4 +1,7 @@
 <?php
 echo "Hola mundo";
+echo "Hola mundo";
+echo "Mi nombre es Ronaldo Aguire";
+
 
 ?>
