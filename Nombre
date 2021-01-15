@@ -1,4 +1,6 @@
 <? php
 echo  "Hola mundo";
 echo "Ronaldo Aguirre";
+
+echo "Ronaldo Aguirre";
 >?
